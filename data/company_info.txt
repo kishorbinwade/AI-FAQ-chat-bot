@@ -1,0 +1,27 @@
+Company Name:TechNova Solutions Pvt. Ltd.
+Founded: 2015
+Headquarters: Pune, India
+Industry: Artificial Intelligence & Cloud Solutions
+
+CEO: Priya Menon
+Revenue (2024): ₹ 125 Crore
+Employees: 320+
+Website: https://www.TechNovaSolutions.com
+Email: contact@TechNovaSolutions.com
+Phone: +91-80-4567-8901
+
+About:
+TechNova Solutions is a leader in providing AI-powered enterprise solutions and scalable cloud infrastructure services. We serve clients across India, the Middle East, and Europe.
+
+Core Services:
+- AI Chatbot Development
+- Cloud Migration & Management
+- Data Analytics & Visualization
+- Cybersecurity Solutions
+
+Mission:
+Empower businesses with intelligent, secure, and scalable technology solutions.
+
+Vision:
+To be a global leader in AI and cloud innovations by 2030.
+
